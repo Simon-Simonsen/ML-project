@@ -3,6 +3,7 @@
 1,Exposure
 2,VehAge
 3,VehBrand_B12
-4,VehPower
-5,DrivAge
-6,Density
+4,DrivAge
+5,VehPower
+6,VehGas_Regular
+7,Density
